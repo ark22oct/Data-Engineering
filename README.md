@@ -30,3 +30,26 @@ This project aims to build an application that maintains a database of esports m
 ## Arbritrary Queries
 <img width="930" alt="Screen Shot 2024-05-02 at 4 12 11 PM" src="https://github.com/ark22oct/Data-Engineering/assets/77360623/015c5bbb-df62-419f-a0aa-d70b7139b68a">
 <img width="930" alt="Screen Shot 2024-05-02 at 4 13 03 PM" src="https://github.com/ark22oct/Data-Engineering/assets/77360623/a5bc225f-70f0-475f-b6de-4250873af46e">
+
+# Key Objectives
+1. Use engineering knowledge to solve real world open-ended engineering problems. Use the
+   specialized engineering knowledge to design specific components, systems, or processes.
+
+2. Use engineering knowledge to solve real world open-ended engineering problems. Use the
+   specialized engineering knowledge to design specific components, systems, or processes.
+
+3. Anticipate the needs of the project, customize design processes, analyzes progress, and
+   revises plans as necessary. Generate solutions for complex engineering design problems.
+
+4. Design and develop software tools that adhere to specific project specifications relating to
+   data modeling and data model designs.
+
+5. Design and implement a data-focused software project. Demonstrate the project to the
+   Teaching Assistant through oral communication and get feedback and evaluate and
+   improve the project modeling and implementation based on the technical feedback.
+
+6. Anticipate legal requirements related to the software project and managing and storing
+   data. Customize modeling and implementation based on these requirements.
+
+7. Systematically account for professional codes of ethics in data modeling and software
+   design and implementation.
