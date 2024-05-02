@@ -7,11 +7,11 @@ Data engineering stands at the heart of crafting scalable software applications 
 <img width="900" alt="Screen Shot 2024-05-02 at 3 25 59 PM" src="https://github.com/ark22oct/Data-Engineering/assets/77360623/f4778a26-c724-4d22-8a6b-24381e564dcb">
 
 ## Initial tables snapshot
-<img width="715" alt="Screen Shot 2024-05-02 at 4 08 02 PM" src="https://github.com/ark22oct/Data-Engineering/assets/77360623/59f9f046-693c-4b1a-ae77-7eb124b1d78e">
+<img width="900" alt="Screen Shot 2024-05-02 at 4 08 59 PM" src="https://github.com/ark22oct/Data-Engineering/assets/77360623/f6f25203-a48f-48dc-8610-8b0b7e9ddbb6">
 <img width="900" alt="Screen Shot 2024-05-02 at 3 59 59 PM" src="https://github.com/ark22oct/Data-Engineering/assets/77360623/12a6f52e-8389-4d6f-90d9-d5041f897f15">
 
 ## Sample Population of table
-<img width="900" alt="Screen Shot 2024-05-02 at 4 00 45 PM" src="https://github.com/ark22oct/Data-Engineering/assets/77360623/4e106d5f-531d-49b1-95a3-62dd4958a284">
+<img width="930" alt="Screen Shot 2024-05-02 at 4 09 50 PM" src="https://github.com/ark22oct/Data-Engineering/assets/77360623/e4faa0e9-1fd7-4bac-95bc-939a626999f5">
 <img width="900" alt="Screen Shot 2024-05-02 at 4 01 13 PM" src="https://github.com/ark22oct/Data-Engineering/assets/77360623/4de46a0a-d97e-49a6-9dce-1f5b73533bcd">
 
 ## Terminal for available Queries
