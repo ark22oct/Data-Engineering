@@ -19,5 +19,5 @@ Data engineering stands at the heart of crafting scalable software applications 
 <img width="900" alt="Screen Shot 2024-05-02 at 4 02 30 PM" src="https://github.com/ark22oct/Data-Engineering/assets/77360623/dcf7ae09-953e-4c6f-8833-c88b4c7d75bc">
 
 ## Arbritrary queries
-<img width="900" alt="Screen Shot 2024-05-02 at 4 03 42 PM" src="https://github.com/ark22oct/Data-Engineering/assets/77360623/fc3f1adf-3db6-4747-ba75-203a2b523eba">
+<img width="930" alt="Screen Shot 2024-05-02 at 4 12 11 PM" src="https://github.com/ark22oct/Data-Engineering/assets/77360623/015c5bbb-df62-419f-a0aa-d70b7139b68a">
 <img width="900" alt="Screen Shot 2024-05-02 at 4 03 30 PM" src="https://github.com/ark22oct/Data-Engineering/assets/77360623/1c29e286-9713-447e-a3a2-16498fe3fce0">
