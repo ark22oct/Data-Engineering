@@ -8,7 +8,7 @@ Data engineering stands at the heart of crafting scalable software applications 
 
 ## Initial tables snapshot
 <img width="900" alt="Screen Shot 2024-05-02 at 4 08 59 PM" src="https://github.com/ark22oct/Data-Engineering/assets/77360623/f6f25203-a48f-48dc-8610-8b0b7e9ddbb6">
-<img width="900" alt="Screen Shot 2024-05-02 at 3 59 59 PM" src="https://github.com/ark22oct/Data-Engineering/assets/77360623/12a6f52e-8389-4d6f-90d9-d5041f897f15">
+<img width="931" alt="Screen Shot 2024-05-02 at 4 13 57 PM" src="https://github.com/ark22oct/Data-Engineering/assets/77360623/366df930-3765-4db4-af32-d5b7efd68a19">
 
 ## Sample Population of table
 <img width="930" alt="Screen Shot 2024-05-02 at 4 09 50 PM" src="https://github.com/ark22oct/Data-Engineering/assets/77360623/e4faa0e9-1fd7-4bac-95bc-939a626999f5">
